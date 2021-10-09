@@ -1,6 +1,5 @@
 # Hey! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-AndreaHabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-habib-730941198/)](https://www.linkedin.com/in/andrea-habib-730941198/)
 
 ### About me 😊
 
