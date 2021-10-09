@@ -5,14 +5,11 @@
 ### About me 😊
 
   <p>🏫 Student at College of Staten Island, based in New York City</p>
-  <p>💼 Currently working as volunteer backend developer at Develop for Good - Care Somalia.</p>
   <p>⛳️ Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</p>
   <p>📖 Learning new frameworks and concepts.</p>
-  <p>🎮 Playing Yakuza 0, Rainbow Six Siege, and Elder Scrolls Online.</p>
+  <p>🎮 Playing FiveM.</p>
 
 
-### Also Checkout my awesome website 🤩
-<a href="https://andreahabib.netlify.app/" target="_blank" rel="noreferrer"><img alt="portfolio" style="max-width: 50px;" src="https://res.cloudinary.com/andreahabib/image/upload/c_thumb,w_200,g_face/v1625938581/andrea_l4gua5.png" /></a>
 
 ### And my skills in cool badges 😁
 
@@ -136,25 +133,3 @@
 
 <br></br>
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaHabib&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaHabib&layout=compact&langs_count=10&theme=dracula"/>
-</p>
-  
-## Most notable projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=Final_Project_330_JAVA&theme=dracula)](https://github.com/AndreaHabib/Final_Project_330_JAVA)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=The_blog&theme=dracula)](https://github.com/AndreaHabib/The_blog)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=GameStore&theme=dracula)](https://github.com/AndreaHabib/GameStore)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=gamesFaves&theme=dracula)](https://github.com/AndreaHabib/gamesFaves)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=ttp-team-2&theme=dracula)](https://github.com/AndreaHabib/ttp-team-2)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=portfolio&theme=dracula)](https://github.com/AndreaHabib/portfolio)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreaHabib&repo=Discord-bot&theme=dracula)](https://github.com/AndreaHabib/Discord-bot)
