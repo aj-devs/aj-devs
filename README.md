@@ -94,12 +94,7 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <p>Currently learning</p>
-   
-    <td>
-     
-    </td>
+
   </tr>
  </table>
 
