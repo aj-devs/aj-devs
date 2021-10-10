@@ -3,8 +3,7 @@
 
 ### About me 😊
 
-  <p>🏫 Student at College of Staten Island, based in New York City</p>
-  <p>⛳️ Leading the tech community on my campus as GitHub Campus Expert and president of Hack-A-Project club!</p>
+
   <p>📖 Learning new frameworks and concepts.</p>
   <p>🎮 Playing FiveM.</p>
 
