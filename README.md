@@ -16,7 +16,7 @@
   <th>Tools, Frameworks, Programming Languages</th>
   <tr>
     <td>
-      <p>Operatomg System</p>
+      <p>Operating System</p>
     </td>
     <td>
       <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
